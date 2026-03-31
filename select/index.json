@@ -1,0 +1,226 @@
+{
+  "version": 1,
+  "base_track": "Wake Me Up",
+  "base_artist": "Avicii",
+  "createdAt": "2026-03-31T13:38:24.237097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wake Me Up When September Ends",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/01_Wake_Me_Up_When_September_Ends_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Wake Me Up",
+      "artist": "The Microphones",
+      "has_synced": false,
+      "path": "select/02_Don't_Wake_Me_Up_The_Microphones.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wake Me Up",
+      "artist": "The Microphones",
+      "has_synced": true,
+      "path": "select/03_Wake_Me_Up_The_Microphones.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wake Me Up",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/04_Wake_Me_Up_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wake Me Up",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/05_Wake_Me_Up_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wake Me Up (original version)",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/06_Wake_Me_Up_(original_version)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wake Me Up (Tony's Lamezmas \"Love Affair\")",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/07_Wake_Me_Up_(Tony's_Lamezmas__Love_Affair_)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wake Me Up (Tony Lamezma's \"Love Affair\")",
+      "artist": "Girls Aloud",
+      "has_synced": false,
+      "path": "select/08_Wake_Me_Up_(Tony_Lamezma's__Love_Affair_)_Girls_Aloud.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Wake Me Up",
+      "artist": "Julian Lennon",
+      "has_synced": true,
+      "path": "select/09_Don't_Wake_Me_Up_Julian_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Wake Me Up",
+      "artist": "Cranes",
+      "has_synced": false,
+      "path": "select/10_Don't_Wake_Me_Up_Cranes.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Wake Me Up (Paul Smith Remix)",
+      "artist": "Cranes",
+      "has_synced": false,
+      "path": "select/11_Don't_Wake_Me_Up_(Paul_Smith_Remix)_Cranes.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Wake Me Up (Remixed by Tripnotic)",
+      "artist": "Cranes",
+      "has_synced": false,
+      "path": "select/12_Don't_Wake_Me_Up_(Remixed_by_Tripnotic)_Cranes.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Wake Me Up (Wednesday Catnap Remix by Dietrich Schoenemann)",
+      "artist": "Cranes",
+      "has_synced": false,
+      "path": "select/13_Don't_Wake_Me_Up_(Wednesday_Catnap_Remix_by_Dietrich_Schoenemann)_Cranes.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Wake Me Up (Remix)",
+      "artist": "Cranes",
+      "has_synced": false,
+      "path": "select/14_Don't_Wake_Me_Up_(Remix)_Cranes.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wake Me Up [Addicted To Bass Winter 2013 Edit]",
+      "artist": "Avicii feat. Aloe Blacc",
+      "has_synced": true,
+      "path": "select/15_Wake_Me_Up_[Addicted_To_Bass_Winter_2013_Edit]_Avicii_feat._Aloe_Blacc.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wake Me Up",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_01_Wake_Me_Up_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Wake Me Up",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_02_Wake_Me_Up_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Wake Me Up",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_03_Wake_Me_Up_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Wake Me Up",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_04_Wake_Me_Up_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Wake Me Up",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_05_Wake_Me_Up_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Wake Me Up",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_06_Wake_Me_Up_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Wake Me Up",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_07_Wake_Me_Up_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Wake Me Up (Radio Edit)",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_08_Wake_Me_Up_(Radio_Edit)_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Wake Me Up (Avicii by Avicii)",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_09_Wake_Me_Up_(Avicii_by_Avicii)_アヴィーチー.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "Wake Me Up (Hogland Edit)",
+      "artist": "アヴィーチー",
+      "has_synced": false,
+      "path": "select/pl_10_Wake_Me_Up_(Hogland_Edit)_アヴィーチー.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Wake Me Up",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/localdb_01_Wake_Me_Up_Avicii.lrc",
+      "repo_name": "GNfQfloAKfg"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "Wake Me Up",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/localdb_02_Wake_Me_Up_Avicii.lrc",
+      "repo_name": "n86qySlV-MQ"
+    }
+  ]
+}
